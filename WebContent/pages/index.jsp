@@ -18,7 +18,7 @@
 	}
 	
 	%>
-	
+	<h1>WELCOME</h1>
 		<h1>Welcome to index!</h1>
 		Name: <input type="text" id="txtName" value="edward"/><br>
 		Age: <input type="text" id="txtAge" value="2"/><br>
